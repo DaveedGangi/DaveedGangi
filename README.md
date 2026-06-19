@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-daveed-365958190/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Daveed53460412)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daveedgangiportfolio.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daveedgangi@gmail.com)
 
 </div>
 
@@ -43,7 +42,7 @@ const daveed = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=DaveedGangi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=DaveedGangi&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -115,7 +114,7 @@ const daveed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 <br/>
