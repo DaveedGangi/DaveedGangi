@@ -4,16 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70a5fd&height=250&section=header&text=DAVEED%20GANGI&fontSize=55&fontColor=70a5fd&animation=twinkling&fontAlignY=45&stroke=70a5fd&strokeWidth=1" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%E2%9A%A1+Full+Stack+Developer+%7C+Bengaluru%2C+India+%E2%9A%A1" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%9A%A1+Full+Stack+Developer+%7C+Bengaluru%2C+India+%E2%9A%A1" alt="Subtitle" />
 
 <br/>
 
 <!-- ANIMATED TECH TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%9A%99%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%F0%9F%8F%97%EF%B8%8F+Building+production+systems+at+GlobalOrizon;%F0%9F%93%8A+1600%2B+contributions+%C2%B7+130%2B+repositories;%F0%9F%8C%8D+Shipping+code+that+impacts+real+users;%F0%9F%94%A5+Turning+coffee+into+production+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=40&lines=%E2%9A%99%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI;%F0%9F%8F%97%EF%B8%8F+Building+systems+at+GlobalOrizon;%F0%9F%93%8A+1600%2B+contributions+%C2%B7+130%2B+repos;%F0%9F%8C%8D+Shipping+code+that+impacts+users;%F0%9F%94%A5+Turning+coffee+into+production+code" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- ANIMATED SOCIAL BADGES -->
+<!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/g-daveed-365958190/">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -39,59 +39,47 @@
 <br/>
 
 <div align="center">
-<table border="0">
-<tr>
-<td width="55%" valign="top">
 
 ### &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">&nbsp; Who Am I
 
 ```ts
-interface Developer {
-  name: string;
-  role: string;
-  company: string;
-  location: string;
-  stack: string[];
-  domains: string[];
-}
-
 const daveed: Developer = {
   name: "Daveed Gangi",
   role: "Full Stack Developer",
   company: "GlobalOrizon",
   location: "Bengaluru, India",
-  stack: [
-    "React", "Next.js", "TypeScript",
-    "Node.js", "FastAPI", "PostgreSQL"
-  ],
-  domains: [
-    "Identity Verification",
-    "HR-Tech", "Marketplaces"
-  ]
+  stack: ["React", "Next.js", "TypeScript",
+         "Node.js", "FastAPI", "PostgreSQL"],
+  domains: ["Identity Verification",
+            "HR-Tech", "Marketplaces"]
 };
 ```
 
-</td>
-<td width="45%" valign="top">
-
-### &nbsp;<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25">&nbsp; Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="100%" />
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&rank_icon=github&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" width="100%" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+### &nbsp;<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25">&nbsp; Streak Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="90%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&rank_icon=github&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" width="90%" />
+
 </div>
 
-<!-- ANIMATED GIF + HIGHLIGHTS -->
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<!-- HIGHLIGHTS -->
+
+<div align="center">
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">&nbsp; Highlights
+
+</div>
 
 - **Architecting** REST APIs with FastAPI & Node.js for multi-portal clients
 - **Optimized** PostgreSQL queries — reduced response times by **~25%**
@@ -100,7 +88,7 @@ const daveed: Developer = {
 - **Refined** SQL patterns — improved hiring-flow efficiency by **~50%**
 - **Ask me about** React, Node.js, FastAPI, PostgreSQL, or system design
 
-<br clear="right"/>
+<br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -116,27 +104,29 @@ const daveed: Developer = {
 
 <br/><br/>
 
-<!-- ANIMATED ICON ROWS -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%E2%96%B8+FRONTEND" />
+**Frontend**
 <br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,bootstrap&theme=dark&perline=8" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&theme=dark&perline=4" /></a>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=tailwind,html,css,bootstrap&theme=dark&perline=4" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%E2%96%B8+BACKEND" />
+**Backend**
 <br/><br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,django&theme=dark&perline=5" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%E2%96%B8+DATABASE+%26+DEVOPS" />
+**Database & DevOps**
 <br/><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git,github&theme=dark&perline=6" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,docker&theme=dark&perline=3" /></a>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark&perline=3" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%E2%96%B8+TOOLS" />
+**Tools**
 <br/><br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,redux&theme=dark&perline=5" /></a>
 
@@ -154,40 +144,35 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%8F%AD+PRODUCTION+SYSTEMS+I%27VE+BUILT" alt="Production Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8F%AD+PRODUCTION+SYSTEMS" alt="Production Systems" />
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<br/>
+<!-- BGV -->
 <a href="https://bgvteam.com"><img src="https://img.shields.io/badge/BGV-AI_Background_Verification-70a5fd?style=for-the-badge&logoColor=white" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <br/><br/>
-<sub>Enterprise verification platform with candidate, admin & client portals. Automated Aadhaar/PAN verification via Cashfree APIs. Built WhatsApp OTP flows, role-based access controls & reporting modules.</sub>
+<sub>Enterprise verification platform with candidate, admin & client portals.<br/>Automated Aadhaar/PAN verification, WhatsApp OTP flows & reporting modules.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/⚡_~40%25_faster_verification-00C853?style=for-the-badge" />
+
 <br/><br/>
-</td>
-<td align="center" width="50%">
-<br/>
+
+---
+
+<!-- BLUEFORCE -->
 <a href="https://localblueforce.com"><img src="https://img.shields.io/badge/Blueforce-Blue_Collar_Marketplace-70a5fd?style=for-the-badge&logoColor=white" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <br/><br/>
-<sub>Mobile-first jobs marketplace connecting workers with employers. Built i18n support, AI job matching, in-app resume builder & location-based filtering.</sub>
+<sub>Mobile-first jobs marketplace connecting workers with employers.<br/>Built i18n, AI job matching, resume builder & location-based filtering.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/⚡_~50%25_hiring_flow_boost-00C853?style=for-the-badge" />
-<br/><br/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -203,27 +188,32 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%9A%80+OPEN+SOURCE+%26+SIDE+PROJECTS" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%9A%80+OPEN+SOURCE+%26+SIDE+PROJECTS" alt="Projects" />
 
 <br/><br/>
 
 <a href="https://github.com/DaveedGangi/PersonalFinanceTrackerWithAi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
+
 <a href="https://github.com/DaveedGangi/NxtWatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
+
 <a href="https://github.com/DaveedGangi/NxtTrendzApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
+
 <a href="https://github.com/DaveedGangi/Jobby">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
+
 <a href="https://github.com/DaveedGangi/blog-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
+
 <a href="https://github.com/DaveedGangi/college-dashboard-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
 
 </div>
@@ -240,27 +230,28 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%93%88+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%93%88+GITHUB+ANALYTICS" alt="GitHub Analytics" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=70a5fd" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=70a5fd" width="90%" />
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&theme=tokyo-night&hide_border=true&area=true&radius=15&line=70a5fd&point=ffffff&area_color=1a1b27" width="95%" />
 
 <br/>
 
-<!-- PROFILE SUMMARY CARDS -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaveedGangi&theme=tokyonight" width="95%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="45%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="45%" />
 
 </div>
 
@@ -276,7 +267,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=750&height=45&lines=%F0%9F%90%8D+WATCH+THE+SNAKE+EAT+MY+CONTRIBUTIONS" alt="Snake" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE" alt="Snake" />
 
 <br/><br/>
 
@@ -308,17 +299,13 @@ const daveed: Developer = {
 
 <br/><br/>
 
-```
-  ┌──────────────────────────────────────────────────────────┐
-  │                                                          │
-  │   💼  Open to exciting opportunities & collaborations    │
-  │   🚀  Let's build something that impacts real users      │
-  │   📬  Reach out — I'd love to hear from you!             │
-  │                                                          │
-  └──────────────────────────────────────────────────────────┘
-```
-
+**Open to exciting opportunities & collaborations**
 <br/>
+**Let's build something that impacts real users**
+<br/>
+**Reach out — I'd love to hear from you!**
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/g-daveed-365958190/"><img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://daveedgangiportfolio.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;&nbsp;
@@ -326,7 +313,7 @@ const daveed: Developer = {
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="550" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%" />
 
 <br/><br/>
 
