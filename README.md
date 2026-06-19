@@ -63,11 +63,8 @@ const daveed: Developer = {
 
 ### &nbsp;<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25">&nbsp; Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="90%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&rank_icon=github&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&rank_icon=github&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" width="49%" />
 
 </div>
 
@@ -193,25 +190,20 @@ const daveed: Developer = {
 <br/><br/>
 
 <a href="https://github.com/DaveedGangi/PersonalFinanceTrackerWithAi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
-
 <a href="https://github.com/DaveedGangi/NxtWatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
-
 <a href="https://github.com/DaveedGangi/NxtTrendzApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
-
 <a href="https://github.com/DaveedGangi/Jobby">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
-
 <a href="https://github.com/DaveedGangi/blog-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
-
 <a href="https://github.com/DaveedGangi/college-dashboard-frontend">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
 </a>
@@ -234,7 +226,7 @@ const daveed: Developer = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=70a5fd" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=70a5fd" width="49%" />
 
 <br/>
 
@@ -313,7 +305,7 @@ const daveed: Developer = {
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="70%" />
 
 <br/><br/>
 
