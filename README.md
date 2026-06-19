@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Daveed%20Gangi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web&descSize=18&descAlignY=55" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=React.js+%7C+Node.js+%7C+MongoDB+%7C+Python;130%2B+Repos+%E2%80%A2+1200%2B+Contributions;I+build+things+that+live+on+the+internet+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&width=600&height=45&lines=React.js+%7C+Node.js+%7C+MongoDB+%7C+Python;130%2B+Repos+%E2%80%A2+1200%2B+Contributions;I+build+things+that+live+on+the+internet+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
