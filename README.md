@@ -2,9 +2,7 @@
 
 <!-- ═══════════════════ ANIMATED HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1b27,100:70a5fd&height=150&section=header&text=&fontSize=0" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=70&lines=DAVEED+GANGI" alt="Name" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70a5fd&height=250&section=header&text=DAVEED%20GANGI&fontSize=55&fontColor=70a5fd&animation=twinkling&fontAlignY=45&stroke=70a5fd&strokeWidth=1" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%E2%9A%A1+Full+Stack+Developer+%7C+Bengaluru%2C+India+%E2%9A%A1" alt="Subtitle" />
 
