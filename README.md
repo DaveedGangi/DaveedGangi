@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70a5fd&height=300&section=header&text=DAVEED%20GANGI&fontSize=60&fontColor=70a5fd&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20Bengaluru%2C%20India&descSize=18&descAlignY=60&descColor=8b949e" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70a5fd&height=300&section=header&text=DAVEED%20GANGI&fontSize=60&fontColor=70a5fd&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20Bengaluru%2C%20India&descSize=18&descAlignY=60&descColor=8b949e&stroke=70a5fd&strokeWidth=1" />
 
-<!-- TYPING -->
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%E2%9A%99%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%F0%9F%8F%97%EF%B8%8F+Building+production+systems+at+GlobalOrizon;%F0%9F%93%8A+1600%2B+contributions+%C2%B7+130%2B+repositories;%F0%9F%8C%8D+Shipping+code+that+impacts+real+users" alt="Typing SVG" /></a>
 
 <!-- SOCIAL BADGES -->
@@ -15,14 +15,14 @@
 
 <br/><br/>
 
-<!-- DIVIDER -->
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
-<!-- ABOUT ME SECTION -->
 <br/>
 
+<!-- ABOUT ME -->
 <div align="center">
 <table border="0">
 <tr>
@@ -95,34 +95,70 @@ const daveed: Developer = {
 
 <br/>
 
-<!-- TECH STACK -->
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22">&nbsp; Tech Stack
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22">&nbsp; Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaveedGangi/DaveedGangi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaveedGangi/DaveedGangi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DaveedGangi/DaveedGangi/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ANIMATED TECH STACK -->
+<div align="center">
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp; Tech Stack
 
 <br/>
 
 **Frontend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,bootstrap&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,bootstrap&theme=dark" /></a>
 
 <br/><br/>
 
 **Backend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,django&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,django&theme=dark" /></a>
 
 <br/><br/>
 
 **Database & DevOps**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git,github&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git,github&theme=dark" /></a>
 
 <br/><br/>
 
 **Tools**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,redux&theme=dark" />
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,redux&theme=dark" /></a>
+
+<br/><br/>
+
+<!-- ANIMATED SKILL BARS -->
+
+```text
+React.js        ████████████████████████░░   95%
+Node.js         ███████████████████████░░░   90%
+FastAPI          ██████████████████████░░░░   85%
+PostgreSQL      █████████████████████░░░░░   80%
+TypeScript      ████████████████████░░░░░░   78%
+Next.js         ███████████████████░░░░░░░   75%
+Docker          █████████████████░░░░░░░░░   65%
+Python          ████████████████████░░░░░░   78%
+```
 
 </div>
 
@@ -230,7 +266,19 @@ const daveed: Developer = {
 
 <br/>
 
+<!-- 3D CONTRIBUTION CHART -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&theme=tokyo-night&hide_border=true&area=true&radius=15&line=70a5fd&point=ffffff&area_color=1a1b27" width="95%" />
+
+<br/>
+
+<!-- ANIMATED METRICS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaveedGangi&theme=tokyonight" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
