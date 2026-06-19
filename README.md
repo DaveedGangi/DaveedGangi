@@ -205,7 +205,7 @@ const daveed: Developer = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
 <a href="https://github.com/DaveedGangi/college-dashboard-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15" width="49%" />
 </a>
 
 </div>
@@ -238,12 +238,9 @@ const daveed: Developer = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="45%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
