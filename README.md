@@ -114,7 +114,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=400&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
 
 <br/><br/>
 
@@ -156,7 +156,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%8F%AD+PRODUCTION+SYSTEMS+I%27VE+BUILT" alt="Production Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%8F%AD+PRODUCTION+SYSTEMS+I%27VE+BUILT" alt="Production Systems" />
 
 <br/><br/>
 
@@ -205,7 +205,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=550&height=50&lines=%F0%9F%9A%80+OPEN+SOURCE+%26+SIDE+PROJECTS" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=700&height=45&lines=%F0%9F%9A%80+OPEN+SOURCE+%26+SIDE+PROJECTS" alt="Projects" />
 
 <br/><br/>
 
@@ -242,7 +242,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=450&height=50&lines=%F0%9F%93%88+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%93%88+GITHUB+ANALYTICS" alt="GitHub Analytics" />
 
 <br/><br/>
 
@@ -278,7 +278,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=650&height=50&lines=%F0%9F%90%8D+WATCH+THE+SNAKE+EAT+MY+CONTRIBUTIONS" alt="Snake" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=750&height=45&lines=%F0%9F%90%8D+WATCH+THE+SNAKE+EAT+MY+CONTRIBUTIONS" alt="Snake" />
 
 <br/><br/>
 
@@ -302,7 +302,7 @@ const daveed: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=400&height=50&lines=%F0%9F%A4%9D+LET%27S+CONNECT" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%A4%9D+LET%27S+CONNECT" alt="Connect" />
 
 <br/><br/>
 
