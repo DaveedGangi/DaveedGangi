@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Daveed%20Gangi&fontSize=55&fontColor=70a5fd&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20the%20Web&descSize=20&descAlignY=52&descColor=ffffff" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C+Python;%F0%9F%94%A5+1600%2B+Contributions+%E2%80%A2+130%2B+Repositories;%F0%9F%92%A1+I+build+things+that+live+on+the+internet" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+React+%7C+Next.js+%7C+Node.js+%7C+FastAPI+%7C+PostgreSQL;%F0%9F%94%A5+1600%2B+Contributions+%E2%80%A2+130%2B+Repositories;%F0%9F%92%A1+Building+scalable+production+grade+web+apps" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,10 +25,12 @@
 ```javascript
 const daveed = {
     role: "Full Stack Developer",
-    location: "India",
-    code: ["JavaScript", "Python",
-           "TypeScript", "HTML", "CSS"],
-    focus: "AI-powered web apps",
+    company: "GlobalOrizon",
+    location: "Hyderabad, India",
+    stack: ["React", "Next.js", "Node.js",
+            "FastAPI", "PostgreSQL"],
+    domains: ["Identity Verification",
+              "HR-Tech", "Marketplaces"],
     motto: "Ship it, learn, repeat!"
 };
 ```
@@ -49,11 +51,12 @@ const daveed = {
 
 ### What I'm up to
 
-- **Building** full-stack apps from idea to deployment
-- **Exploring** AI integrations & intelligent web experiences
-- **Currently** working on finance trackers & e-commerce platforms
-- **Learning** TypeScript, system design & cloud deployments
-- **2026 Goal:** Contribute more to open source
+- **Building** production-grade web apps at **GlobalOrizon**
+- **Architecting** REST APIs with FastAPI & Node.js serving multi-portal clients
+- **Optimized** PostgreSQL queries, reducing API response times by ~25%
+- **Streamlined** identity verification pipelines, cutting turnaround by ~40%
+- **Built** AI-driven job matching & i18n for blue-collar marketplace
+- **Ask me about** React, Node.js, FastAPI, PostgreSQL, or system design
 
 <br clear="right"/>
 
@@ -70,6 +73,10 @@ const daveed = {
 <br><b>React</b>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><b>JavaScript</b>
 </td>
@@ -78,26 +85,8 @@ const daveed = {
 <br><b>TypeScript</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><b>Express</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br><b>Django</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><b>Tailwind</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -107,9 +96,41 @@ const daveed = {
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br><b>CSS3</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br><b>Bootstrap</b>
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><b>Express</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br><b>Django</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><b>Docker</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -120,38 +141,20 @@ const daveed = {
 <br><b>GitHub</b>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><b>Linux</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 <br><b>VS Code</b>
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br><b>Postman</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-<br><b>NPM</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-<br><b>Netlify</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-<br><b>SQLite</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br><b>Linux</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><b>Figma</b>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br><b>Redux</b>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br><b>Bootstrap</b>
 </td>
 </tr>
 </table>
@@ -160,7 +163,20 @@ const daveed = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Professional Work
+
+<div align="center">
+
+| Project | Role | Impact | Link |
+|---------|------|--------|------|
+| **BGV** — AI-Powered Background Verification | Full Stack Developer | Automated Aadhaar/PAN verification, reduced turnaround by ~40% | [bgvteam.com](https://bgvteam.com) |
+| **Blueforce** — Blue-Collar Jobs Marketplace | Core Engineer | Built i18n, AI job matching, resume builder; improved hiring flow by ~50% | [localblueforce.com](https://localblueforce.com) |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Personal Projects
 
 <div align="center">
 
@@ -207,10 +223,10 @@ const daveed = {
 <div align="center">
 
 ```
-           ╔══════════════════════════════════════════════════╗
-           ║  Looking for a passionate developer to collab?   ║
-           ║  Let's build something amazing together!         ║
-           ╚══════════════════════════════════════════════════╝
+           ╔══════════════════════════════════════════════════════╗
+           ║  Looking for a developer who ships production code?  ║
+           ║  Let's build something amazing together!             ║
+           ╚══════════════════════════════════════════════════════╝
 ```
 
 <a href="https://www.linkedin.com/in/g-daveed-365958190/"><img src="https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
