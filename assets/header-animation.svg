@@ -37,8 +37,11 @@
 
   <style>
     @keyframes float {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-8px); }
+      0% { transform: translateY(0px); }
+      25% { transform: translateY(-3px); }
+      50% { transform: translateY(-6px); }
+      75% { transform: translateY(-3px); }
+      100% { transform: translateY(0px); }
     }
 
     @keyframes pulse {
@@ -108,11 +111,11 @@
     }
 
     .name-text {
-      animation: float 4s ease-in-out infinite;
+      animation: float 6s cubic-bezier(0.45, 0, 0.55, 1) infinite;
     }
 
     .subtitle {
-      animation: float 4s ease-in-out infinite 0.3s;
+      animation: float 6s cubic-bezier(0.45, 0, 0.55, 1) infinite 0.4s;
     }
 
     .particle {
