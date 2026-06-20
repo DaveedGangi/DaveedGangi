@@ -36,11 +36,9 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<br/>
-
 <div align="center">
 
-### &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">&nbsp; Who Am I
+### &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35">&nbsp; Who Am I
 
 ```ts
 const daveed: Developer = {
@@ -63,8 +61,8 @@ const daveed: Developer = {
 
 ### &nbsp;<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25">&nbsp; Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&rank_icon=github&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" width="49%" />
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="48%" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DaveedGangi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&rank_icon=github&title_color=70a5fd&icon_color=70a5fd&text_color=8b949e" width="48%" /></a>
 
 </div>
 
@@ -238,9 +236,9 @@ const daveed: Developer = {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="32%" />
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaveedGangi&theme=tokyonight" width="31%" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaveedGangi&theme=tokyonight" width="31%" /></a>
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaveedGangi&theme=tokyonight&utcOffset=5.5" width="31%" /></a>
 
 </div>
 
