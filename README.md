@@ -8,6 +8,11 @@
 
 <br/>
 
+<!-- REAL-TIME WIDGET -->
+<img src="https://readmeme.eu.cc/api/time.svg?theme=terminal&timezone=Asia/Kolkata&timeFormat=12h&showSeconds=1&showDate=1&showDay=1&label=Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3" alt="Real-time Clock" />
+
+<br/><br/>
+
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/g-daveed-365958190/">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,32 +38,40 @@
 
 <div align="center">
 
-### &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">&nbsp; Who Am I
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+WHO+AM+I" alt="Who Am I" />
+
+<br/>
 
 <table>
-<tr>
-<td>
+<tr><td>
+
+<div align="center">
 
 ```js
 ~$ cat daveed.json
 ```
 
-</td>
-</tr>
-<tr>
-<td>
+</div>
+
+</td></tr>
+<tr><td>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25" />
+
+</div>
 
 | | |
-|---|---|
-| **Name** | Daveed Gangi |
-| **Role** | Full Stack Developer |
-| **Company** | GlobalOrizon |
-| **Location** | Bengaluru, India |
-| **Stack** | React, Next.js, TypeScript, Node.js, FastAPI, PostgreSQL |
-| **Domains** | Identity Verification, HR-Tech, Marketplaces |
+|:---:|:---|
+| `name` | **Daveed Gangi** |
+| `role` | **Full Stack Developer** |
+| `company` | **GlobalOrizon** |
+| `location` | **Bengaluru, India** |
+| `stack` | `React` `Next.js` `TypeScript` `Node.js` `FastAPI` `PostgreSQL` |
+| `domains` | `Identity Verification` `HR-Tech` `Marketplaces` |
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 </div>
@@ -69,7 +82,7 @@
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">&nbsp; Highlights
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%E2%9A%A1+HIGHLIGHTS" alt="Highlights" />
 
 <br/>
 
@@ -195,22 +208,22 @@
 <br/><br/>
 
 <a href="https://github.com/DaveedGangi/PersonalFinanceTrackerWithAi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/NxtWatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/NxtTrendzApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/Jobby">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/blog-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/college-dashboard-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
 </a>
 
 </div>
@@ -236,8 +249,17 @@
 
 <br/>
 
-<!-- 3D CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&theme=tokyo-night&hide_border=true&area=true&radius=15&line=70a5fd&point=ffffff&area_color=1a1b27" width="95%" />
+
+<br/>
+
+<!-- 3D CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="95%" />
+</picture>
 
 </div>
 
