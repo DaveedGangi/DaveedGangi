@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120" viewBox="0 0 700 120">
+  <defs>
+    <linearGradient id="cta-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1b27"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+
+    <linearGradient id="border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#70a5fd">
+        <animate attributeName="stop-color" values="#70a5fd;#a78bfa;#70e0fd;#70a5fd" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#70e0fd;#70a5fd;#a78bfa" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes border-dash {
+      to { stroke-dashoffset: -60; }
+    }
+
+    @keyframes pulse-opacity {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes handwave {
+      0%, 100% { transform: rotate(0deg); }
+      25% { transform: rotate(20deg); }
+      50% { transform: rotate(-10deg); }
+      75% { transform: rotate(15deg); }
+    }
+
+    .border-anim {
+      stroke-dasharray: 20 10;
+      animation: border-dash 3s linear infinite;
+    }
+
+    .cta-text {
+      animation: pulse-opacity 3s ease-in-out infinite;
+    }
+
+    .hand {
+      animation: handwave 1.5s ease-in-out infinite;
+      transform-origin: 62px 55px;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="700" height="120" rx="15" fill="url(#cta-bg)"/>
+
+  <!-- Animated border -->
+  <rect x="2" y="2" width="696" height="116" rx="14" fill="none" stroke="url(#border-gradient)" stroke-width="2" class="border-anim"/>
+
+  <!-- Hand wave emoji -->
+  <text x="62" y="55" font-size="28" text-anchor="middle" class="hand">&#x1F44B;</text>
+
+  <!-- Main text -->
+  <text x="350" y="48" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="bold" fill="#70a5fd" filter="url(#text-glow)" class="cta-text">
+    Open to exciting opportunities &amp; collaborations
+  </text>
+
+  <!-- Sub text -->
+  <text x="350" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#8b949e">
+    Let's build something that impacts real users
+  </text>
+
+  <!-- Terminal prompt -->
+  <text x="240" y="105" font-family="'Courier New', monospace" font-size="12" fill="#7ee787" opacity="0.6">$</text>
+  <text x="255" y="105" font-family="'Courier New', monospace" font-size="12" fill="#8b949e" opacity="0.5"> reach out — I'd love to connect</text>
+
+</svg>
