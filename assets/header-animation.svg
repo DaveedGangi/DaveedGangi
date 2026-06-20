@@ -36,13 +36,7 @@
   </defs>
 
   <style>
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      25% { transform: translateY(-3px); }
-      50% { transform: translateY(-6px); }
-      75% { transform: translateY(-3px); }
-      100% { transform: translateY(0px); }
-    }
+    /* float animation handled by native SVG animateTransform for smoothness */
 
     @keyframes pulse {
       0%, 100% { opacity: 0.4; }
@@ -110,13 +104,7 @@
       to { stroke-dashoffset: 0; }
     }
 
-    .name-text {
-      animation: float 6s cubic-bezier(0.45, 0, 0.55, 1) infinite;
-    }
-
-    .subtitle {
-      animation: float 6s cubic-bezier(0.45, 0, 0.55, 1) infinite 0.4s;
-    }
+    /* name-text and subtitle use <animateTransform> instead of CSS */
 
     .particle {
       animation: particle-float 4s ease-in-out infinite;
@@ -205,15 +193,17 @@
     <circle cx="1020" cy="150" r="60" fill="none" stroke="#a78bfa" stroke-width="0.3" opacity="0.08"/>
   </g>
 
-  <!-- Main name text -->
-  <g class="name-text" filter="url(#glow)">
+  <!-- Main name text (native SVG animation = no stutter) -->
+  <g filter="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
     <text x="600" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="bold" fill="#70a5fd" letter-spacing="6">
       DAVEED GANGI
     </text>
   </g>
 
   <!-- Subtitle -->
-  <g class="subtitle">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="7s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
     <text x="600" y="165" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#8b949e" letter-spacing="2">
       Full Stack Developer
     </text>
@@ -223,6 +213,7 @@
 
   <!-- Terminal prompt line -->
   <g opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="7s" begin="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
     <text x="470" y="200" font-family="'Courier New', monospace" font-size="13" fill="#7ee787">$</text>
     <text x="485" y="200" font-family="'Courier New', monospace" font-size="13" fill="#8b949e"> building the future...</text>
   </g>
