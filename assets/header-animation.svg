@@ -7,9 +7,11 @@
       <stop offset="100%" style="stop-color:#0d1117"/>
     </linearGradient>
 
-    <!-- Glow filter -->
+    <!-- Animated glow filter — breathing effect -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feGaussianBlur result="blur">
+        <animate attributeName="stdDeviation" values="2;5;2" dur="4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -36,10 +38,13 @@
   </defs>
 
   <style>
-    /* float animation handled by native SVG animateTransform for smoothness */
-
     @keyframes pulse {
       0%, 100% { opacity: 0.4; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes breathe {
+      0%, 100% { opacity: 0.7; }
       50% { opacity: 1; }
     }
 
@@ -104,7 +109,9 @@
       to { stroke-dashoffset: 0; }
     }
 
-    /* name-text and subtitle use <animateTransform> instead of CSS */
+    .subtitle-text {
+      animation: breathe 4s ease-in-out infinite 0.5s;
+    }
 
     .particle {
       animation: particle-float 4s ease-in-out infinite;
@@ -193,17 +200,15 @@
     <circle cx="1020" cy="150" r="60" fill="none" stroke="#a78bfa" stroke-width="0.3" opacity="0.08"/>
   </g>
 
-  <!-- Main name text (native SVG animation = no stutter) -->
+  <!-- Main name text — animated glow breathing -->
   <g filter="url(#glow)">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
     <text x="600" y="120" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="bold" fill="#70a5fd" letter-spacing="6">
       DAVEED GANGI
     </text>
   </g>
 
-  <!-- Subtitle -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="7s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  <!-- Subtitle — opacity breathing -->
+  <g class="subtitle-text">
     <text x="600" y="165" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#8b949e" letter-spacing="2">
       Full Stack Developer
     </text>
@@ -211,11 +216,11 @@
     <rect x="710" y="152" width="8" height="16" fill="#70a5fd" class="cursor"/>
   </g>
 
-  <!-- Terminal prompt line -->
-  <g opacity="0.6">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="7s" begin="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
+  <!-- Terminal prompt line — subtle pulse -->
+  <g>
     <text x="470" y="200" font-family="'Courier New', monospace" font-size="13" fill="#7ee787">$</text>
     <text x="485" y="200" font-family="'Courier New', monospace" font-size="13" fill="#8b949e"> building the future...</text>
+    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="5s" repeatCount="indefinite"/>
   </g>
 
   <!-- Floating particles -->
