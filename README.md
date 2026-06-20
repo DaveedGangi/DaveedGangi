@@ -13,7 +13,7 @@
 <br/>
 
 <!-- REAL-TIME WIDGET -->
-<img src="https://readmeme.eu.cc/api/time.svg?theme=terminal&timezone=Asia/Kolkata&timeFormat=12h&showSeconds=1&showDate=1&showDay=1&label=Bengaluru%20%F0%9F%87%AE%F0%9F%87%B3" alt="Real-time Clock" />
+<img src="https://readmeme.eu.cc/api/time.svg?theme=terminal&timezone=Asia/Kolkata&timeFormat=12h&showSeconds=1&showDate=1&showDay=1&label=Bengaluru" alt="Real-time Clock" />
 
 <br/><br/>
 
