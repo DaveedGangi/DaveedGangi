@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%9A%99%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%F0%9F%93%8A+1600%2B+contributions+%C2%B7+130%2B+repos;%F0%9F%94%A5+Turning+coffee+into+production+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A5D6A7&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%E2%9A%99%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%F0%9F%93%8A+1600%2B+contributions+%C2%B7+130%2B+repos;%F0%9F%94%A5+Turning+coffee+into+production+code" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+WHO+AM+I" alt="Who Am I" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+WHO+AM+I" alt="Who Am I" />
 
 <br/>
 
@@ -86,13 +86,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%E2%9A%A1+HIGHLIGHTS" alt="Highlights" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=400&height=45&lines=%E2%9A%A1+HIGHLIGHTS" alt="Highlights" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_~40%25_faster_verification-00C853?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/⚡_~50%25_hiring_flow_boost-00C853?style=for-the-badge" />&nbsp;
-<img src="https://img.shields.io/badge/⚡_~25%25_faster_queries-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_~40%25_faster_verification-FFB74D?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/⚡_~50%25_hiring_flow_boost-FFB74D?style=for-the-badge" />&nbsp;
+<img src="https://img.shields.io/badge/⚡_~25%25_faster_queries-FFB74D?style=for-the-badge" />
 
 <br/><br/>
 
@@ -110,7 +110,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:70a5fd&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:4CAF50&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
 
 <br/><br/>
 
@@ -154,7 +154,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:70a5fd&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:4CAF50&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -163,12 +163,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8E%B5+NOW+PLAYING" alt="Now Playing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8E%B5+NOW+PLAYING" alt="Now Playing" />
 
 <br/><br/>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tpdy2vn5kkn6odbghgzhzq2vs4&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tpdy2vn5kkn6odbghgzhzq2vs4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&profanity=true&hide_remaster=true&bar_color=70a5fd&bar_color_cover=false" width="400" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tpdy2vn5kkn6odbghgzhzq2vs4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&profanity=true&hide_remaster=true&bar_color=4CAF50&bar_color_cover=false" width="400" alt="Spotify Now Playing" />
 </a>
 
 </div>
@@ -176,7 +176,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:70a5fd&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:4CAF50&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -185,12 +185,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8F%AD+PRODUCTION+SYSTEMS" alt="Production Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%8F%AD+PRODUCTION+SYSTEMS" alt="Production Systems" />
 
 <br/><br/>
 
 <!-- BGV -->
-<a href="https://bgvteam.com"><img src="https://img.shields.io/badge/BGV-AI_Background_Verification-70a5fd?style=for-the-badge&logoColor=white" /></a>
+<a href="https://bgvteam.com"><img src="https://img.shields.io/badge/BGV-AI_Background_Verification-4CAF50?style=for-the-badge&logoColor=white" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -198,14 +198,14 @@
 <br/><br/>
 <sub>Enterprise verification platform with candidate, admin & client portals.<br/>Automated Aadhaar/PAN verification, WhatsApp OTP flows & reporting modules.</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/⚡_~40%25_faster_verification-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_~40%25_faster_verification-FFB74D?style=for-the-badge" />
 
 <br/><br/>
 
 ---
 
 <!-- BLUEFORCE -->
-<a href="https://localblueforce.com"><img src="https://img.shields.io/badge/Blueforce-Blue_Collar_Marketplace-70a5fd?style=for-the-badge&logoColor=white" /></a>
+<a href="https://localblueforce.com"><img src="https://img.shields.io/badge/Blueforce-Blue_Collar_Marketplace-4CAF50?style=for-the-badge&logoColor=white" /></a>
 <br/><br/>
 <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -213,14 +213,14 @@
 <br/><br/>
 <sub>Mobile-first jobs marketplace connecting workers with employers.<br/>Built i18n, AI job matching, resume builder & location-based filtering.</sub>
 <br/><br/>
-<img src="https://img.shields.io/badge/⚡_~50%25_hiring_flow_boost-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_~50%25_hiring_flow_boost-FFB74D?style=for-the-badge" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:70a5fd&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:4CAF50&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -229,7 +229,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%9A%80+OPEN+SOURCE+%26+SIDE+PROJECTS" alt="Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%9A%80+OPEN+SOURCE+%26+SIDE+PROJECTS" alt="Projects" />
 
 <br/><br/>
 
@@ -257,7 +257,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:70a5fd&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:4CAF50&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -266,17 +266,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%93%88+GITHUB+ANALYTICS" alt="GitHub Analytics" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%93%88+GITHUB+ANALYTICS" alt="GitHub Analytics" />
 
 <br/><br/>
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=8b949e" width="48%" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=70a5fd" width="48%" /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=A5D6A7" width="48%" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=4CAF50" width="48%" /></a>
 
 <br/>
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&theme=tokyo-night&hide_border=true&area=true&radius=15&line=70a5fd&point=ffffff&area_color=1a1b27" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&theme=tokyo-night&hide_border=true&area=true&radius=15&line=4CAF50&point=ffffff&area_color=1a1b27" width="95%" />
 
 <br/>
 
@@ -292,7 +292,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:70a5fd&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:4CAF50&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -301,7 +301,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE" alt="Snake" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=45&lines=%F0%9F%90%8D+CONTRIBUTION+SNAKE" alt="Snake" />
 
 <br/><br/>
 
@@ -319,7 +319,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%A4%9D+LET%27S+CONNECT" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%F0%9F%A4%9D+LET%27S+CONNECT" alt="Connect" />
 
 <br/><br/>
 
@@ -334,11 +334,11 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DaveedGangi&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=DaveedGangi&color=4CAF50&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
 <!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=70a5fd&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4CAF50&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=4CAF50&fontAlignY=65&animation=twinkling" />
