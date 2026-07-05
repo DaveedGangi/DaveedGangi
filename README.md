@@ -234,22 +234,22 @@
 <br/><br/>
 
 <a href="https://github.com/DaveedGangi/PersonalFinanceTrackerWithAi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=PersonalFinanceTrackerWithAi&theme=dark&hide_border=true&border_radius=15&show_owner=true&bg_color=0d1117&title_color=4CAF50&icon_color=A5D6A7&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/NxtWatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtWatch&theme=dark&hide_border=true&border_radius=15&show_owner=true&bg_color=0d1117&title_color=4CAF50&icon_color=A5D6A7&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/NxtTrendzApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=NxtTrendzApp&theme=dark&hide_border=true&border_radius=15&show_owner=true&bg_color=0d1117&title_color=4CAF50&icon_color=A5D6A7&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/Jobby">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=Jobby&theme=dark&hide_border=true&border_radius=15&show_owner=true&bg_color=0d1117&title_color=4CAF50&icon_color=A5D6A7&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/blog-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=blog-repo&theme=dark&hide_border=true&border_radius=15&show_owner=true&bg_color=0d1117&title_color=4CAF50&icon_color=A5D6A7&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/DaveedGangi/college-dashboard-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DaveedGangi&repo=college-dashboard-frontend&theme=dark&hide_border=true&border_radius=15&show_owner=true&bg_color=0d1117&title_color=4CAF50&icon_color=A5D6A7&text_color=c9d1d9" width="48%" />
 </a>
 
 </div>
@@ -270,13 +270,13 @@
 
 <br/><br/>
 
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=tokyonight&hide_border=true&border_radius=15&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=A5D6A7" width="48%" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&title_color=4CAF50" width="48%" /></a>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaveedGangi&theme=dark&hide_border=true&border_radius=15&background=0d1117&ring=4CAF50&fire=FFB74D&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=A5D6A7&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveedGangi&layout=compact&theme=dark&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9" width="48%" /></a>
 
 <br/>
 
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&theme=tokyo-night&hide_border=true&area=true&radius=15&line=4CAF50&point=ffffff&area_color=1a1b27" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaveedGangi&bg_color=0d1117&color=c9d1d9&line=4CAF50&point=FFB74D&area=true&area_color=4CAF50&hide_border=true&radius=15" width="95%" />
 
 <br/>
 
